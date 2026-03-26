@@ -113,6 +113,22 @@ Replace `XXXXXXXXXX` with the actual ASIN (the 10-character product code from th
 
 ---
 
+## 8. Hiking Injuries & How to Prevent Them
+
+**File:** `blog/hiking-injuries-prevention.html`
+**Publish date:** May 13, 2026
+
+| Product | Amazon.ca Search | Why Recommended | Where It Appears | ASIN |
+|---------|-----------------|-----------------|------------------|------|
+| Compression Bandage / Elastic Wrap | "elastic compression bandage ankle" | Essential first-aid item for ankle sprains on the trail | Tools section only | |
+| Trekking Poles | "trekking poles hiking adjustable" | Reduce knee load by up to 25% on descents, improve balance on rough terrain | Tools section only | |
+| Ankle Brace (Lace-Up) | "lace up ankle brace hiking" | Lightweight support for hikers with history of ankle sprains, fits inside boots | Tools section only | |
+| Electrolyte Tablets | "electrolyte tablets hiking hydration" | Replace sodium, potassium, magnesium lost through sweat on long or hot hikes | Tools section only | |
+| Moleskin / Blister Bandages | "moleskin blister prevention hiking" | Protect hot spots before they become full blisters — essential trail first aid | Tools section only | |
+| Foam Roller | "foam roller muscle recovery" | Post-hike muscle recovery, reduces stiffness in legs and back | Tools section only | |
+
+---
+
 ## How to find ASINs
 
 1. Go to [amazon.ca](https://www.amazon.ca)
